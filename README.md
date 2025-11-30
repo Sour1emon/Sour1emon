@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**Sour1emon/Sour1emon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m Isaac (@Sour1emon)
+- 👀 I’m interested in: Math, Computers, Coding, Data Science, etc.
+- 🌱 I’m currently learning: Rust, TypeScript, C++, C, Go
+- 📫 How to reach me: isaac.bess@gmail.com
+- 😄 Pronouns: he/him
+- Favorite languages:
+  - Python
+  - Rust
+  - C
+- Hated languages:
+  - Java
+  - JavaScript
+  
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=23194&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=bear)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sour1emon&theme=bear)
